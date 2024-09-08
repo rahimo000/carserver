@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oEci2EIln+dBFhNwqTQJWKXgnfkXGDACdJf9jytCHB8=",
+  "Source": "carserver",
+  "BasePath": "_content/carserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
